@@ -3,7 +3,7 @@ This is a mobile application developed in the course of Mobile Applications Deve
 The system allows users to upload their guides, view guides created by others, and explore tourist destinations with the help of interactive maps. 
 The application also incorporates features such as user registration, voting on guides, and guide approval by administrators.
 
-Features:
+# Features:
 
 -User Authentication
   Users can register and log in using their email or an alternative authentication method.
