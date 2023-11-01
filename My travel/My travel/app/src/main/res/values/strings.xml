@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My_Travel</string>
+    <string name="apiplaces">http://10.10.4.78/services/places/</string>
+    <string name="apilike">http://10.10.4.78/services/likeapi/</string>
+    <string name="apilogin">http://10.10.4.78/services/loginapi</string>
+    <string name="url">http://10.10.4.78/services/ws.php/places/</string>
+    <string name="apicomment">http://10.10.4.78/services/commentapi/</string>
+    <string name="apidisplay">http://10.10.4.78/services/editions/</string>
+    <string name="title_activity_maps">AIzaSyBUDFSRAub1AL1Ti5Bkv83edWFT5a14bpc</string>
+</resources>
