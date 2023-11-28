@@ -5,28 +5,28 @@ The application also incorporates features such as user registration, voting on 
 
 # Features:
 
--User Authentication
+-User Authentication:
   Users can register and log in using their email or an alternative authentication method.
   
--Profile Management
+-Profile Management:
   Users can view and edit their profiles, including their names and uploaded guides.
   
--Guide Creation and Editing
+-Guide Creation and Editing:
   Users can create new touristic guides, providing titles, descriptions, and coordinates.
   Existing guides can be edited and updated.
   
--Guide Listing
+-Guide Listing:
   The application displays a list of all available touristic guides, regardless of the user.
   
--Guide Details
+-Guide Details:
   Users can view detailed information about a specific guide, including its description and coordinates.
   A map with marked points related to the guide is displayed.
   
--Voting System
+-Voting System:
   Users can vote on guides to express their appreciation or provide feedback.
 
--Comments
+-Comments:
   Users can leave comments on guides to share their experiences or ask questions.
 
--Guide Approval
+-Guide Approval:
   Guides uploaded by users require approval by administrators/superusers before they are visible to others.
